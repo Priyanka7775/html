@@ -1,1 +1,6 @@
-/* Add custom styles here */
+.footer::after{
+    content: "";
+    clear: both;
+    display: block;
+   
+}
